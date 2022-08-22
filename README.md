@@ -14,5 +14,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-rakanmya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailrakanmya@gmail.com)](mailto:rakanmya@gmail.com)
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakanabusaidah&label=Profile%20views&color=0e75b6&style=flat" alt="rakanabusaidah" /> </p>
