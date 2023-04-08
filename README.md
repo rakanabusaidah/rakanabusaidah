@@ -2,6 +2,7 @@
 
  <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
  
+ <p>Most of my repos are private, sorry for the inconvenience xd <p/>
 ### :rocket: &nbsp;Languages and tools
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/> </a> 
