@@ -2,7 +2,7 @@
 
  
  
- <p>Most of my repos are private, sorry for the inconvenience xd <p/>
+ <p>Software software software!<p/>
  
 ### :rocket: &nbsp;Languages and tools
 
